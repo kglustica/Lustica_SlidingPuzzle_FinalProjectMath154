@@ -1,1 +1,1 @@
-# Lustica_SlidingPuzzle_FinalProject154
+# Lustica_SlidingPuzzle_FinalProjectMath154
